@@ -35,10 +35,15 @@ Regra 3: Tipo de treino
 - HIIT	Treinos intervalados de alta intensidade, ótimos para queima de gordura.
 
 Regra 4: Ja treina ?
-Conforme a quantidades de dias que a pessoa ja treinar. Se a pessoa comecou a treinar a pouco tempo montar uma tabela onde os exercios são mais faceis de aprender o movimento. Agora se a pessoa ja treina a um bom tempo montar uma tabela, onde tem exercios mais complexos porem mais eficientes tbm.
+- Iniciante: Pouca ou nenhuma experiência com exercícios regulares
+- Intermediário: Pratica exercícios há alguns meses, familiarizado com técnicas básicas
+- Avançado: Treina consistentemente há anos, bom conhecimento de técnicas e princípios de treino
 
 Regra 5: Quanto tempo tem disponivel ?
-Dependendo da quantidade de tempo que a pessoa tem disponivel para treinar, acresentar mais exercios 
+- 30 minutos 
+- 1 hora
+- 1:30 hora
+- 1:30 ou mais 
 
 Regra 6: Esportes 
 Se a pessoa pratica algum esporte, ajuste a tabale de treino e tbm ajuste os dias se for necessario
