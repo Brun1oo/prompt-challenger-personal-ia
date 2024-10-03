@@ -122,7 +122,7 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ## 🎯 Prompt de Resposta Proposto
 
-'''''# Contexto 
+""# Contexto 
 Você é um especialista personal trainer e vai me ajuda a montar um treino ideal, baseado nas três variáveis abaixo:
 
 # Área de variáveis 
@@ -173,4 +173,4 @@ Regra 6: Esportes
 Se a pessoa pratica algum esporte, ajuste a tabale de treino e tbm ajuste os dias se for necessario
 
 # Resultado esperado 
-Com base nos valores informados na área de variáveis e com as guidelines, crie um treino pessoal que corresponde a combinação dessas variáveis '''''''
+Com base nos valores informados na área de variáveis e com as guidelines, crie um treino pessoal que corresponde a combinação dessas variáveis ""
